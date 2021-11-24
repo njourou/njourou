@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njourou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect 🌎
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/njoroge-itinga-432186152/)](https://www.linkedin.com/in/paul-mburu-09029b127/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paulnm)](https://twitter.com/njourou)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=target="blank"=https://www.linkedin.com/in/https://www.linkedin.com/in/njoroge-itinga-432186152/)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/njourou)](https://twitter.com/njourou)
 
 
 
