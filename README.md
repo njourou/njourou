@@ -13,6 +13,20 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
+<?php
+
+date_default_timezone_set('Asia/Calcutta');
+$Hour = date('G');
+
+if ( $Hour >= 5 && $Hour <= 11 ) {
+    echo "Good Morning";
+} else if ( $Hour >= 12 && $Hour <= 18 ) {
+    echo "Good Afternoon";
+} else if ( $Hour >= 19 || $Hour <= 4 ) {
+    echo "Good Evening";
+}
+?>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njourou&count_private=true&show_icons=true&theme=radical)
 
