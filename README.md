@@ -17,6 +17,11 @@ Here are some ideas to get you started:-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njourou&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njourou&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+JavaScript               13 repos            █████████░░░░░░░░░░░░░░░░   39.39% 
+Php                      11 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
 
 
 ### Lets Connect 🌎
