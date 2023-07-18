@@ -18,6 +18,9 @@ Here are some ideas to get you started:-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njourou&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njourou&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=njourou&label=Profile%20Views&color=8&icon=2&pretty=false" />
+</a>
 
 ### Lets Connect 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/njoroge-itinga-432186152/)](https://www.linkedin.com/in/njoroge-itinga-432186152/) 
