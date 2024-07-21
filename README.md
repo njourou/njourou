@@ -23,7 +23,7 @@ Here are some ideas to get you started:-->
 </a>
 
 ### Lets Connect 🌎
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/njoroge-itinga-432186152/)](https://www.linkedin.com/in/njoroge-itinga-432186152/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/njoroge-itinga-432186152/)](https://www.linkedin.com/in/njourou) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/njourou)](https://twitter.com/njourou)
 
 
